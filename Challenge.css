@@ -1,0 +1,39 @@
+body{
+background-color: rgba(244, 228, 45, 0.833);
+}
+.aa
+{
+height: 100px;
+width: 100px;
+position: relative;
+margin:10px 40px;
+border-radius: 10%;
+}
+.bb
+{
+height: 100px;
+width: 100px;
+position: relative;
+margin:10px 40px;
+border-radius: 10%;
+}
+.cc
+{
+height: 100px;
+width: 100px;
+position: relative;
+margin:10px 40px;
+border-radius: 10%;
+}
+.dd
+{
+height: 100px;
+width: 100px;
+position: relative;
+margin:10px 40px;
+border-radius: 10%;
+}
+.diamond
+{
+border-color: rgb(12, 70, 12);
+}

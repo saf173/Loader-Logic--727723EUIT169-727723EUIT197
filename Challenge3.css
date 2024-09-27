@@ -1,0 +1,20 @@
+.aa
+{
+background-color: greenyellow;
+border-radius: 10px;
+height: 500px;
+width: 300px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.cc{
+height:5px;
+width:10px;
+border-radius: 10px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+body{
+background-color: rgb(116, 116, 240);
+position:absolute;
+}
